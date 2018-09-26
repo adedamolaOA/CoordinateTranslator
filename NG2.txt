@@ -1,0 +1,253 @@
+﻿1 P	Abuja  wikipedia article
+ABV,Abodza,Abodža,Abouja,Abuca,Abudza,Abudzha,Abudża,Abudža,Abugia,Abugo,Abuja,Abuya,Abuzha,Abuĝo,Ab...	Nigeria, Abuja Federal Capital Territory	capital of a political entity
+population 590,400 	N 9° 3' 28''	E 7° 29' 42''
+2 A	Federal Capital Territory  wikipedia article
+Abuja (F.C.T.),Abuja Capital Territory,Abuja Federal Capital Territory,Agbegbe Oluilu Ijoba Apapo Ab...	Nigeria, Abuja Federal Capital Territory	first-order administrative division
+population 1,405,201 	N 8° 50' 0''	E 7° 10' 0''
+3 P	Suleja  wikipedia article
+Abudzha,Abuja,Sulaija,Suleija,Suleja,Абуджа	Nigeria, Niger	populated place
+population 162,135 	N 9° 10' 49''	E 7° 10' 45''
+4 P	Kuje  wikipedia article
+Kuje	Nigeria, Abuja Federal Capital Territory	seat of a second-order administrative division
+population 97,367 	N 8° 52' 46''	E 7° 13' 39''
+5 S	Nnamdi Azikiwe International Airport  wikipedia article
+ABV,Abuja Airport,Aeroport international Nnamdi Azikiwe,Aeroporto Internacional Nnamdi Azikiwe,Aerop...	Nigeria, Abuja Federal Capital Territory	airport
+elevation 342m 	N 9° 0' 23''	E 7° 15' 51''
+6 A	Municipal Area Council
+Abuja,Abuja Municipal,Abuja Municipal Area Council	Nigeria, Abuja Federal Capital Territory
+Municipal Area Council 	second-order administrative division	N 8° 59' 59''	E 7° 22' 41''
+7 A	Bwari
+	Nigeria, Abuja Federal Capital Territory
+Bwari 	second-order administrative division	N 9° 13' 4''	E 7° 24' 28''
+8 A	Gwagwalada
+Gwagwalada,Gwagwalada Area Council	Nigeria, Abuja Federal Capital Territory
+Gwagwalada 	second-order administrative division	N 9° 4' 35''	E 6° 59' 7''
+9 A	Abaji
+Abaji,Abaji Area Council	Nigeria, Abuja Federal Capital Territory
+Abaji 	second-order administrative division	N 8° 53' 31''	E 6° 49' 5''
+10 A	Kwali
+Kwali,Kwali Area Council	Nigeria, Abuja Federal Capital Territory
+Kwali 	second-order administrative division	N 8° 44' 8''	E 6° 58' 3''
+11 A	Kuje
+Kuje,Kuje Area Council	Nigeria, Abuja Federal Capital Territory
+Kuje 	second-order administrative division	N 8° 39' 32''	E 7° 16' 13''
+12 P	Abuja
+Abudzha,Abuja,Tufa,Абуджа	Nigeria, 	populated place	N 9° 15' 0''	E 6° 56' 0''
+13 P	Madala
+Madala,Madalla	Nigeria, Abuja Federal Capital Territory	populated place
+population 11,771 	N 9° 6' 16''	E 7° 12' 48''
+14 P	Abaji  wikipedia article
+Abaji	Nigeria, Abuja Federal Capital Territory	seat of a second-order administrative division	N 8° 28' 25''	E 6° 56' 40''
+15 P	Gwagwalada  wikipedia article
+Gwagwalada,Gwagwaldda	Nigeria, Abuja Federal Capital Territory	seat of a second-order administrative division	N 8° 56' 36''	E 7° 4' 53''
+16 P	Bwari  wikipedia article
+Bwari	Nigeria, Abuja Federal Capital Territory	seat of a second-order administrative division	N 9° 16' 47''	E 7° 22' 49''
+17 P	Abuja
+	Nigeria, Borno	populated place	N 13° 17' 16''	E 13° 45' 41''
+18 L	Gwagwa Forest Reserve
+Abuja Native Area Number 1,Gwagwa Forest Reserve	Nigeria, Abuja Federal Capital Territory	forest reserve	N 9° 7' 0''	E 7° 18' 0''
+19 P	Jigape
+Jigapa,Jigape	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 5' 15''	E 7° 6' 54''
+20 P	Dawliko
+Dakiliko,Dawliko	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 3' 28''	E 7° 12' 25''
+21 P	Gazarago
+Gazarago,Kazarago	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 43' 56''	E 7° 26' 13''
+22 P	Reda
+Rada,Reda	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 42' 37''	E 7° 4' 34''
+23 P	Gwargwada
+Gwaragwada,Gwargwada	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 28' 20''	E 7° 7' 57''
+24 P	Buzai Tudai
+Buzai Tudai,Tudai	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 34' 19''	E 7° 10' 36''
+25 P	Zagabutu
+Zagabuta,Zagabutu	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 31' 14''	E 7° 13' 50''
+26 P	Tagwar
+Tagwai,Tagwar	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 39' 6''	E 7° 19' 30''
+27 P	Bassa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 57' 44''	E 7° 7' 54''
+28 P	Barari
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 48' 41''	E 7° 13' 13''
+29 P	Bangwo
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 5' 35''	E 7° 10' 0''
+30 P	Bamburu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 7' 18''	E 7° 8' 36''
+31 P	Bambo
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 34' 6''	E 7° 23' 13''
+32 P	Awa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 45' 12''	E 7° 28' 34''
+33 P	Atako
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 27' 24''	E 7° 0' 48''
+34 P	Anagbaki
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 27' 29''	E 7° 4' 46''
+35 P	Agwai
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 33' 34''	E 7° 13' 54''
+36 P	Adadu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 51' 31''	E 7° 8' 23''
+37 P	Ligwai
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 53' 43''	E 7° 19' 1''
+38 P	Kworro
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 29' 26''	E 7° 4' 2''
+39 P	Kwali
+	Nigeria, Abuja Federal Capital Territory	seat of a second-order administrative division
+population 6,229 	N 8° 53' 0''	E 7° 1' 6''
+40 P	Kwaku
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 41' 44''	E 7° 10' 32''
+41 P	Kusaki
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 47' 37''	E 7° 25' 58''
+42 P	Kumao
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 35' 55''	E 7° 17' 46''
+43 P	Kujakwa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 34' 52''	E 7° 23' 47''
+44 P	Koroko
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 47' 34''	E 6° 59' 31''
+45 P	Ketti
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 53' 45''	E 7° 22' 42''
+46 P	Kashimoro
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 34' 18''	E 7° 22' 8''
+47 P	Kagini
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 8' 36''	E 7° 17' 42''
+48 P	Kabi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 43' 2''	E 7° 18' 43''
+49 P	Kaba
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 7' 4''	E 7° 17' 54''
+50 P	Idon Kasa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 59' 17''	E 7° 12' 50''
+
+51 P	Idon Bisa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 58' 6''	E 7° 12' 41''
+52 P	Sherete
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 54' 14''	E 7° 26' 19''
+53 P	Shenagu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 4' 58''	E 7° 8' 57''
+54 P	Serikin Ladan
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 7' 33''	E 7° 8' 50''
+55 P	Sankache
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 32' 58''	E 7° 13' 52''
+56 P	Sabon-Gida
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 42' 0''	E 7° 0' 9''
+57 P	Sabojibi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 7' 0''	E 7° 15' 43''
+58 P	Sabo
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 49' 34''	E 7° 12' 27''
+59 P	Rubuchi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 59' 18''	E 7° 19' 3''
+60 P	Rubochi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 32' 45''	E 7° 3' 4''
+61 P	Rafin Pa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 59' 20''	E 7° 9' 8''
+62 P	Paikon Kore
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 59' 35''	E 7° 0' 59''
+63 P	Munafe
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 50' 18''	E 7° 29' 43''
+64 P	Gwombe
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 31' 19''	E 7° 8' 2''
+65 P	Gwi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 55' 48''	E 7° 12' 11''
+66 P	Gwau
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 51' 48''	E 7° 20' 40''
+67 P	Gunrafia
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 58' 28''	E 7° 2' 0''
+68 P	Goyan
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 7' 35''	E 7° 9' 12''
+69 P	Gerki
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 0' 51''	E 7° 29' 13''
+70 P	Gaubi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 48' 43''	E 7° 19' 8''
+71 P	Gao
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 44' 1''	E 7° 10' 47''
+72 P	Galadima
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 59' 5''	E 7° 25' 50''
+73 P	Gaida
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 39' 11''	E 7° 24' 23''
+74 P	Gadara
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 39' 49''	E 7° 14' 41''
+75 P	Ekpa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 5' 31''	E 7° 12' 30''
+76 P	Dakwa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 6' 51''	E 7° 14' 28''
+77 T	Chukuku Hill
+	Nigeria, Abuja Federal Capital Territory	hill	N 8° 50' 53''	E 7° 9' 13''
+78 P	Chigwai
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 43' 23''	E 7° 7' 46''
+79 P	Burum
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 54' 38''	E 7° 29' 31''
+80 P	Bogu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 38' 24''	E 7° 23' 57''
+81 P	Zuba
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 5' 47''	E 7° 12' 46''
+82 P	Zango
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 48' 37''	E 7° 20' 45''
+83 P	Yewu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 33' 21''	E 7° 0' 50''
+84 P	Yebu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 40' 3''	E 7° 7' 16''
+85 P	Yangoji
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 46' 21''	E 6° 59' 35''
+86 P	Yabo
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 37' 47''	E 7° 9' 48''
+87 P	Waru
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 55' 3''	E 7° 29' 44''
+88 P	Tungan Ali
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 0' 20''	E 7° 13' 19''
+89 P	Tunga Maje
+	Nigeria, Abuja Federal Capital Territory	populated place	N 9° 3' 14''	E 7° 11' 41''
+90 P	Takworiki
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 33' 13''	E 7° 19' 53''
+91 P	Sukuku
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 50' 14''	E 7° 0' 17''
+92 P	Kpeyi
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 56' 47''	E 7° 33' 36''
+93 P	Ginda
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 56' 29''	E 7° 30' 32''
+94 P	Kurudu
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 55' 53''	E 7° 33' 0''
+95 P	Anka
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 55' 22''	E 7° 32' 58''
+96 P	Ziona
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 54' 32''	E 7° 30' 37''
+97 P	Sape
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 53' 50''	E 7° 30' 26''
+98 P	Kwaye
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 50' 38''	E 7° 30' 1''
+99 P	Tudar
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 31' 5''	E 7° 11' 11''
+100 P	Piri
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 42' 52''	E 7° 1' 26''
+
+101 P	Dafa
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 46' 24''	E 7° 1' 4''
+102 P	Lugbe Suburban District
+	Nigeria, Abuja Federal Capital Territory	populated place
+elevation 399m 	N 8° 58' 23''	E 7° 23' 2''
+103 P	Nyanya Suburban District
+	Nigeria, Abuja Federal Capital Territory	populated place
+elevation 477m 	N 9° 4' 0''	E 7° 29' 0''
+104 P	Kubwa Suburban District
+	Nigeria, Abuja Federal Capital Territory	populated place
+elevation 445m 	N 9° 8' 28''	E 7° 21' 9''
+105 P	Orozo
+	Nigeria, Abuja Federal Capital Territory	populated place	N 8° 54' 0''	E 7° 34' 22''
+106 H	River Gujigwo
+Gujigwo,River Gujigwo	Nigeria, Abuja Federal Capital Territory	stream	N 9° 6' 26''	E 7° 15' 59''
+107 R	Kokoma Close
+	Nigeria, Abuja Federal Capital Territory	street	N 9° 5' 12''	E 7° 28' 15''
+108 S	Nicon Hilton Abuja
+	Nigeria, Niger	hotel	N 9° 12' 36''	E 7° 12' 0''
+109 S	Abuja Sheraton Hotel
+	Nigeria, Abuja Federal Capital Territory	hotel	N 9° 4' 59''	E 7° 31' 59''
+110 S	Transcorp Hilton Abuja
+	Nigeria, Abuja Federal Capital Territory
+Kuje 	hotel	N 8° 48' 4''	E 7° 26' 16''
+111 S	Protea Hotel Apo Apartments
+	Nigeria, Abuja Federal Capital Territory
+Municipal Area Council 	hotel	N 9° 4' 28''	E 7° 28' 40''
+112 S	Protea Hotel Asokoro
+	Nigeria, Abuja Federal Capital Territory
+Municipal Area Council 	hotel	N 9° 3' 19''	E 7° 30' 27''
+113 S	African University of Science and Technology
+AUST	Nigeria, Abuja Federal Capital Territory	university	N 9° 0' 1''	E 7° 25' 17''
+114 S	Gwagwalada Mediumwave Transmitter
+	Nigeria, Abuja Federal Capital Territory	tower	N 8° 55' 52''	E 7° 4' 23''
+115 S	Judiciary Commission
+	Nigeria, Abuja Federal Capital Territory	building(s)	N 9° 6' 7''	E 7° 29' 9''
+116 S	Economic and Financial Crimes Commission
+	Nigeria, Abuja Federal Capital Territory	building(s)	N 9° 4' 41''	E 7° 29' 24''
